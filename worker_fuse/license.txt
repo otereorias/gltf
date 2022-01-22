@@ -1,0 +1,11 @@
+Model Information:
+* title:	Worker Fuse
+* source:	https://sketchfab.com/3d-models/worker-fuse-bac5e40c04a44b5891ac92500894b33f
+* author:	muhammaduzairhamdani (https://sketchfab.com/muhammaduzairhamdani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Worker Fuse" (https://sketchfab.com/3d-models/worker-fuse-bac5e40c04a44b5891ac92500894b33f) by muhammaduzairhamdani (https://sketchfab.com/muhammaduzairhamdani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
